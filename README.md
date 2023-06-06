@@ -1,4 +1,4 @@
-# ML-work
+# ML-work game
 Cсылка на задание в kaggel https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
 
 Описание задания:
